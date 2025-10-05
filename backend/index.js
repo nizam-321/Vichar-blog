@@ -15,7 +15,11 @@ const postRoutes = require('./routes/posts');
 
 // Middleware
 app.use(cors({
-  origin: 'http://localhost:3000',
+  origin: [
+  'http://localhost:3000',
+  'https://vichar-blog.vercel.app/'
+  ],
+
   credentials: true
 }));
 app.use(express.json());
