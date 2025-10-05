@@ -17,7 +17,7 @@ const postRoutes = require('./routes/posts');
 app.use(cors({
   origin: [
   'http://localhost:3000',
-  'https://vichar-blog.vercel.app/'
+  'https://vichar-blog-git-main-nizams-projects-a322af4f.vercel.app/'
   ],
 
   credentials: true
