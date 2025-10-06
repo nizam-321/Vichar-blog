@@ -16,18 +16,23 @@ A full-stack blogging platform where users can create, share, and manage their t
 
 ##  Demo
 
-**Live Demo:** [Coming Soon]
+**Live Demo:** 
 
-##  Screenshots
+[Click Here ](https://vichar-blog.vercel.app/signup)
 
-### Homepage
-![Homepage Screenshot](https://via.placeholder.com/800x500/f3f4f6/374151?text=Dashboard+View)
+## 📸 Screenshots
+
+### Dashboard
+![Dashboard](./screenshots/dashboard.png)
 
 ### Create Post
-![Create Post Screenshot](https://via.placeholder.com/800x500/f3f4f6/374151?text=Create+Post+Form)
+![Create Post](./screenshots/create-post.png)
 
 ### Blog Detail
-![Blog Detail Screenshot](https://via.placeholder.com/800x500/f3f4f6/374151?text=Blog+Detail+Page)
+![Blog Detail](./screenshots/blog-detail.png)
+
+### My Blogs
+![My Blogs](./screenshots/my-blogs.png)
 
 ## 🛠️ Tech Stack
 
