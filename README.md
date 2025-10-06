@@ -222,10 +222,10 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 ##  Author
 
-**Your Name**
-- GitHub: [@yourusername](https://github.com/yourusername)
-- LinkedIn: [Your LinkedIn](https://linkedin.com/in/yourprofile)
-- Email: your.email@gmail.com
+**Nizam**
+- GitHub: [Click](https://github.com/nizam-321)
+- LinkedIn: [Click](https://www.linkedin.com/in/nizam-ahmed-833090357?lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base_contact_details%3BrXvz%2ByxAQtq6Xnsu1qD36w%3D%3D)
+- Email: nizam.frontend@gmail.com
 
 ##  Acknowledgments
 
